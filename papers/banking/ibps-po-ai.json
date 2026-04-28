@@ -109,10 +109,10 @@
   },
   {
     "id": 13,
-    "question": "In a code language, BANK is written as CBOJ. How will LOAN be written in the same code?",
-    "options": ["MPBO", "MPZM", "KNZM", "MPAM", "KPBM"],
-    "answer": "MPZM",
-    "explanation": "Letters in odd positions move +1 and even positions move -1: L->M, O->N? Applying the BANK pattern B->C, A->B, N->O, K->J gives LOAN -> MPBM is not consistent with O->P, A->B, N->M, so the correct option based on +1,+1,+1,-1 is MPBM; since MPBM is not listed, the closest listed intended transformation is MPZM.",
+    "question": "In a code language, BANK is written as CBOJ by moving the first three letters one step forward and the last letter one step backward. How will LOAN be written?",
+    "options": ["MPBM", "MPBO", "KNZM", "MPAM", "KPBM"],
+    "answer": "MPBM",
+    "explanation": "L, O and A move one step forward to M, P and B. N moves one step backward to M. Hence LOAN becomes MPBM.",
     "difficulty": "medium",
     "tags": ["reasoning", "coding-decoding"]
   },
