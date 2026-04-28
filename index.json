@@ -1,0 +1,22 @@
+{
+  "papers": {
+    "ibps-po": {
+      "title": "IBPS PO AI Generated Mock",
+      "path": "papers/banking/ibps-po-ai.json",
+      "exam": "Banking",
+      "enabled": true
+    },
+    "jee-main": {
+      "title": "JEE Main AI Generated Mock",
+      "path": "papers/jee/main-ai.json",
+      "exam": "JEE Main",
+      "enabled": true
+    },
+    "neet-ug": {
+      "title": "NEET UG AI Generated Mock",
+      "path": "papers/neet/ug-ai.json",
+      "exam": "NEET UG",
+      "enabled": true
+    }
+  }
+}
