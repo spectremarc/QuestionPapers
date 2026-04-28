@@ -1,0 +1,1940 @@
+[
+  {
+    "id": 1,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "kinematics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "optics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "current electricity",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "circular motion",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "modern physics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "thermodynamics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "kinematics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "optics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "current electricity",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "circular motion",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "modern physics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "thermodynamics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "kinematics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "optics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "current electricity",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "circular motion",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "physics",
+      "modern physics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical bonding",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "organic chemistry",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical kinetics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "aromaticity",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical bonding",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "organic chemistry",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical kinetics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "aromaticity",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical bonding",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "organic chemistry",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "chemical kinetics",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "quadratic equations",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "calculus",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "determinants",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "complex numbers",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "functions",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Integral of sin x from 0 to pi/2 is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "pi/2"
+    ],
+    "answer": "1",
+    "explanation": "Integral is [-cos x] from 0 to pi/2 = 1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "definite integration",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "quadratic equations",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "calculus",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "determinants",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "complex numbers",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "functions",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Integral of sin x from 0 to pi/2 is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "pi/2"
+    ],
+    "answer": "1",
+    "explanation": "Integral is [-cos x] from 0 to pi/2 = 1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "definite integration",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "quadratic equations",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "calculus",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "determinants",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "complex numbers",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 1",
+      "mathematics",
+      "functions",
+      "paper 1"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "kinematics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "optics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "current electricity",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "circular motion",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "modern physics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "thermodynamics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "kinematics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "optics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "current electricity",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "circular motion",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "modern physics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "thermodynamics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "A body starts from rest with acceleration 2 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "kinematics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "optics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "current electricity",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "circular motion",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "physics",
+      "modern physics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical bonding",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "organic chemistry",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical kinetics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "aromaticity",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical bonding",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "organic chemistry",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical kinetics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "aromaticity",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "ionic equilibrium",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical bonding",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "organic chemistry",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "chemical kinetics",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "chemistry",
+      "molecular orbital theory",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "quadratic equations",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "calculus",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "determinants",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "complex numbers",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "functions",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Integral of sin x from 0 to pi/2 is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "pi/2"
+    ],
+    "answer": "1",
+    "explanation": "Integral is [-cos x] from 0 to pi/2 = 1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "definite integration",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "quadratic equations",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "calculus",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "determinants",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "complex numbers",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "functions",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Integral of sin x from 0 to pi/2 is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "pi/2"
+    ],
+    "answer": "1",
+    "explanation": "Integral is [-cos x] from 0 to pi/2 = 1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "definite integration",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "For f(x)=x^2-4x+5, the minimum occurs at x =",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "For x^2 - 2ax + c, minimum occurs at x = a = 2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "quadratic equations",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "The derivative of sin x is:",
+    "options": [
+      "sin x",
+      "cos x",
+      "-sin x",
+      "-cos x"
+    ],
+    "answer": "cos x",
+    "explanation": "d(sin x)/dx = cos x.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "calculus",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "The determinant |1 2; 3 4| equals:",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "answer": "-2",
+    "explanation": "1*4 - 2*3 = -2.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "determinants",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "If |z-1| = |z+1|, the locus is:",
+    "options": [
+      "real axis",
+      "imaginary axis",
+      "unit circle",
+      "line y=x"
+    ],
+    "answer": "imaginary axis",
+    "explanation": "It is the perpendicular bisector of the points 1 and -1.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "complex numbers",
+      "paper 2"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Number of onto functions from a 3-element set to a 2-element set is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Total functions = 8; non-onto = 2; onto = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "jee advanced paper 2",
+      "mathematics",
+      "functions",
+      "paper 2"
+    ]
+  }
+]

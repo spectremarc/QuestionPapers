@@ -1,33 +1,108 @@
 {
   "papers": {
-    "ibps-po": {
-      "title": "IBPS PO AI Generated Mock",
-      "path": "papers/banking/ibps-po-ai.json",
-      "exam": "Banking",
+    "ibps-po-set-1": {
+      "title": "IBPS PO Set 1 - Easy",
+      "path": "papers/banking/ibps-po-set-1-easy.json",
+      "difficulty": "easy",
+      "set": 1,
       "enabled": true
     },
-    "sbi-po": {
-      "title": "SBI PO AI Generated Mock",
-      "path": "papers/banking/sbi-po-ai.json",
-      "exam": "Banking",
+    "ibps-po-set-2": {
+      "title": "IBPS PO Set 2 - Medium",
+      "path": "papers/banking/ibps-po-set-2-medium.json",
+      "difficulty": "medium",
+      "set": 2,
       "enabled": true
     },
-    "jee-main": {
-      "title": "JEE Main AI Generated Mock",
-      "path": "papers/jee/main-ai.json",
-      "exam": "JEE Main",
+    "ibps-po-set-3": {
+      "title": "IBPS PO Set 3 - Hard",
+      "path": "papers/banking/ibps-po-set-3-hard.json",
+      "difficulty": "hard",
+      "set": 3,
       "enabled": true
     },
-    "jee-advanced": {
-      "title": "JEE Advanced AI Generated Mock",
-      "path": "papers/jee/advanced-ai.json",
-      "exam": "JEE Advanced",
+    "sbi-po-set-1": {
+      "title": "SBI PO Set 1 - Easy",
+      "path": "papers/banking/sbi-po-set-1-easy.json",
+      "difficulty": "easy",
+      "set": 1,
       "enabled": true
     },
-    "neet-ug": {
-      "title": "NEET UG AI Generated Mock",
-      "path": "papers/neet/ug-ai.json",
-      "exam": "NEET UG",
+    "sbi-po-set-2": {
+      "title": "SBI PO Set 2 - Medium",
+      "path": "papers/banking/sbi-po-set-2-medium.json",
+      "difficulty": "medium",
+      "set": 2,
+      "enabled": true
+    },
+    "sbi-po-set-3": {
+      "title": "SBI PO Set 3 - Hard",
+      "path": "papers/banking/sbi-po-set-3-hard.json",
+      "difficulty": "hard",
+      "set": 3,
+      "enabled": true
+    },
+    "jee-main-set-1": {
+      "title": "JEE MAIN Set 1 - Easy",
+      "path": "papers/jee/main-set-1-easy.json",
+      "difficulty": "easy",
+      "set": 1,
+      "enabled": true
+    },
+    "jee-main-set-2": {
+      "title": "JEE MAIN Set 2 - Medium",
+      "path": "papers/jee/main-set-2-medium.json",
+      "difficulty": "medium",
+      "set": 2,
+      "enabled": true
+    },
+    "jee-main-set-3": {
+      "title": "JEE MAIN Set 3 - Hard",
+      "path": "papers/jee/main-set-3-hard.json",
+      "difficulty": "hard",
+      "set": 3,
+      "enabled": true
+    },
+    "jee-advanced-set-1": {
+      "title": "JEE ADVANCED Set 1 - Easy",
+      "path": "papers/jee/advanced-set-1-easy.json",
+      "difficulty": "easy",
+      "set": 1,
+      "enabled": true
+    },
+    "jee-advanced-set-2": {
+      "title": "JEE ADVANCED Set 2 - Medium",
+      "path": "papers/jee/advanced-set-2-medium.json",
+      "difficulty": "medium",
+      "set": 2,
+      "enabled": true
+    },
+    "jee-advanced-set-3": {
+      "title": "JEE ADVANCED Set 3 - Hard",
+      "path": "papers/jee/advanced-set-3-hard.json",
+      "difficulty": "hard",
+      "set": 3,
+      "enabled": true
+    },
+    "neet-ug-set-1": {
+      "title": "NEET UG Set 1 - Easy",
+      "path": "papers/neet/ug-set-1-easy.json",
+      "difficulty": "easy",
+      "set": 1,
+      "enabled": true
+    },
+    "neet-ug-set-2": {
+      "title": "NEET UG Set 2 - Medium",
+      "path": "papers/neet/ug-set-2-medium.json",
+      "difficulty": "medium",
+      "set": 2,
+      "enabled": true
+    },
+    "neet-ug-set-3": {
+      "title": "NEET UG Set 3 - Hard",
+      "path": "papers/neet/ug-set-3-hard.json",
+      "difficulty": "hard",
+      "set": 3,
       "enabled": true
     }
   }

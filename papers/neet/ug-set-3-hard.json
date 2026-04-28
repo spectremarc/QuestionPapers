@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 1,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "In uniform circular motion, which quantity remains constant?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Speed",
+      "Momentum"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed remains constant while direction changes.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "circular motion"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "The de Broglie wavelength of an electron accelerated by potential V is proportional to:",
+    "options": [
+      "V",
+      "sqrt(V)",
+      "1/sqrt(V)",
+      "1/V"
+    ],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h/sqrt(2meV).",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "modern physics"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "For an ideal gas in an isothermal process, which remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Work"
+    ],
+    "answer": "Temperature",
+    "explanation": "Isothermal means constant temperature.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "A body starts from rest with acceleration 4 m/s^2 for 3 s. Find final velocity.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "explanation": "Use v = u + at and u = 0.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "kinematics"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "A convex lens has focal length 20 cm. Its power is:",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "-5 D",
+      "+10 D"
+    ],
+    "answer": "+5 D",
+    "explanation": "Power = 1/f(m) = 1/0.20 = +5 D.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "A wire is stretched to double its length at constant volume. Its resistance becomes:",
+    "options": [
+      "R/2",
+      "R",
+      "2R",
+      "4R"
+    ],
+    "answer": "4R",
+    "explanation": "Length doubles and area halves, so resistance becomes four times.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "physics",
+      "current electricity"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "After two half-lives, the fraction of reactant left is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "explanation": "Fraction left = (1/2)^2 = 1/4.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Which molecule is diamagnetic?",
+    "options": [
+      "O2",
+      "NO",
+      "N2",
+      "NO2"
+    ],
+    "answer": "N2",
+    "explanation": "N2 has all paired electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "molecular orbital theory"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Which compound is aromatic?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene",
+      "Cyclohexane"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene is planar, cyclic, conjugated and has 6 pi electrons.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "aromaticity"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "The pH of 0.001 M HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "HCl is strong; pH = -log(10^-3) = 3.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "ionic equilibrium"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Hybridisation of carbon in CO2 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma domains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "chemical bonding"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Which compound gives iodoform test?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Benzaldehyde",
+      "Formic acid"
+    ],
+    "answer": "Ethanol",
+    "explanation": "Ethanol forms acetaldehyde under test conditions and gives iodoform.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "chemistry",
+      "organic chemistry"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "The site of photosynthesis is:",
+    "options": [
+      "mitochondria",
+      "chloroplast",
+      "ribosome",
+      "lysosome"
+    ],
+    "answer": "chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Transpiration mainly occurs through:",
+    "options": [
+      "stomata",
+      "root hairs",
+      "xylem",
+      "pollen"
+    ],
+    "answer": "stomata",
+    "explanation": "Stomata are leaf pores that allow water vapour loss.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "plant physiology"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Double fertilisation occurs in:",
+    "options": [
+      "algae",
+      "bryophytes",
+      "gymnosperms",
+      "angiosperms"
+    ],
+    "answer": "angiosperms",
+    "explanation": "Double fertilisation is characteristic of flowering plants.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "reproduction"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "The edible storage tissue in wheat grain is:",
+    "options": [
+      "embryo",
+      "endosperm",
+      "seed coat",
+      "hilum"
+    ],
+    "answer": "endosperm",
+    "explanation": "Endosperm stores food in cereal grains.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "morphology"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Which pigment absorbs light for photosynthesis?",
+    "options": [
+      "haemoglobin",
+      "chlorophyll",
+      "melanin",
+      "keratin"
+    ],
+    "answer": "chlorophyll",
+    "explanation": "Chlorophyll absorbs light energy.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "botany",
+      "photosynthesis"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "The oxygen-carrying pigment in humans is:",
+    "options": [
+      "myoglobin",
+      "haemoglobin",
+      "chlorophyll",
+      "insulin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": "Haemoglobin in RBCs transports oxygen.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "human physiology"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "DNA replication occurs in:",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA synthesis occurs in S phase.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "cell cycle"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid follicles",
+      "adrenal cortex"
+    ],
+    "answer": "beta cells",
+    "explanation": "Pancreatic beta cells secrete insulin.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "endocrine system"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Mendel's law of segregation concerns separation of:",
+    "options": [
+      "alleles",
+      "ribosomes",
+      "lysosomes",
+      "cell walls"
+    ],
+    "answer": "alleles",
+    "explanation": "Alleles separate during gamete formation.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "genetics"
+    ]
+  },
+  {
+    "id": 180,
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": "Nephron is the functional unit of kidney.",
+    "difficulty": "hard",
+    "tags": [
+      "neet",
+      "zoology",
+      "excretory system"
+    ]
+  }
+]

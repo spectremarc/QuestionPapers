@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Neither of the plans are ready.",
+      "Neither of the plans is ready.",
+      "Neither plans is ready.",
+      "Neither plan are ready."
+    ],
+    "answer": "Neither of the plans is ready.",
+    "explanation": "Neither takes a singular verb in this construction.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Choose the best connector: He was unwell, ____ he attended the meeting.",
+    "options": [
+      "because",
+      "yet",
+      "unless",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between being unwell and attending.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "connectors"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Choose the word closest in meaning to PRUDENT.",
+    "options": [
+      "careful",
+      "careless",
+      "angry",
+      "doubtful"
+    ],
+    "answer": "careful",
+    "explanation": "Prudent means careful and sensible.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Choose the correct passive voice: The bank approved the loan.",
+    "options": [
+      "The loan approved the bank.",
+      "The loan was approved by the bank.",
+      "The bank was approved by the loan.",
+      "The loan is approving."
+    ],
+    "answer": "The loan was approved by the bank.",
+    "explanation": "In passive voice, the object becomes subject and the verb becomes was approved.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: The new rule will ____ all account holders.",
+    "options": [
+      "applicable",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "answer": "apply",
+    "explanation": "After will, the base verb apply is needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "What is 15% of 240?",
+    "options": [
+      "26",
+      "31",
+      "36",
+      "41"
+    ],
+    "answer": "36",
+    "explanation": "15% of 240 = 15/100 x 240 = 36.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "An article bought for Rs.1100 is sold at 20% profit. Find the selling price.",
+    "options": [
+      "1220",
+      "1270",
+      "1320",
+      "1370"
+    ],
+    "answer": "1320",
+    "explanation": "Selling price = 1100 x 120/100 = Rs.1320.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Find simple interest on Rs.6000 at 8% per annum for 3 years.",
+    "options": [
+      "1240",
+      "1340",
+      "1440",
+      "1540"
+    ],
+    "answer": "1440",
+    "explanation": "SI = PRT/100 = 6000 x 8 x 3/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Rs.480 is divided in the ratio 3:5. Find the smaller share.",
+    "options": [
+      "140",
+      "160",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "explanation": "Smaller share = 3/(3+5) x 480 = Rs.180.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "The average of 5 numbers is 34. If another number 45 is added, what is the new total?",
+    "options": [
+      "195",
+      "205",
+      "215",
+      "225"
+    ],
+    "answer": "215",
+    "explanation": "Original total = 5 x 34 = 170; new total = 215.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "A can complete a work in 15 days and B in 20 days. Working together, how long will they take?",
+    "options": [
+      "6.6 days",
+      "7.6 days",
+      "8.6 days",
+      "9.6 days"
+    ],
+    "answer": "8.6 days",
+    "explanation": "Combined time = ab/(a+b) = 300/35 = 8.6 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "A car travels at 66 km/h for 3 hours. Find the distance.",
+    "options": [
+      "174",
+      "186",
+      "198",
+      "210"
+    ],
+    "answer": "198",
+    "explanation": "Distance = speed x time = 66 x 3 = 198 km.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "In a data set of 1100 customers, 25% use mobile banking. How many use mobile banking?",
+    "options": [
+      "235",
+      "255",
+      "275",
+      "295"
+    ],
+    "answer": "275",
+    "explanation": "25% of 1100 = 275.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What is 15% of 300?",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": "45",
+    "explanation": "15% of 300 = 15/100 x 300 = 45.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "An article bought for Rs.1400 is sold at 20% profit. Find the selling price.",
+    "options": [
+      "1580",
+      "1630",
+      "1680",
+      "1730"
+    ],
+    "answer": "1680",
+    "explanation": "Selling price = 1400 x 120/100 = Rs.1680.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Find simple interest on Rs.6000 at 8% per annum for 3 years.",
+    "options": [
+      "1240",
+      "1340",
+      "1440",
+      "1540"
+    ],
+    "answer": "1440",
+    "explanation": "SI = PRT/100 = 6000 x 8 x 3/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Rs.480 is divided in the ratio 3:5. Find the smaller share.",
+    "options": [
+      "140",
+      "160",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "explanation": "Smaller share = 3/(3+5) x 480 = Rs.180.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "The average of 5 numbers is 30. If another number 45 is added, what is the new total?",
+    "options": [
+      "175",
+      "185",
+      "195",
+      "205"
+    ],
+    "answer": "195",
+    "explanation": "Original total = 5 x 30 = 150; new total = 195.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "A can complete a work in 15 days and B in 20 days. Working together, how long will they take?",
+    "options": [
+      "6.6 days",
+      "7.6 days",
+      "8.6 days",
+      "9.6 days"
+    ],
+    "answer": "8.6 days",
+    "explanation": "Combined time = ab/(a+b) = 300/35 = 8.6 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "A car travels at 84 km/h for 3 hours. Find the distance.",
+    "options": [
+      "228",
+      "240",
+      "252",
+      "264"
+    ],
+    "answer": "252",
+    "explanation": "Distance = speed x time = 84 x 3 = 252 km.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "In a data set of 1100 customers, 25% use mobile banking. How many use mobile banking?",
+    "options": [
+      "235",
+      "255",
+      "275",
+      "295"
+    ],
+    "answer": "275",
+    "explanation": "25% of 1100 = 275.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "What is 15% of 260?",
+    "options": [
+      "29",
+      "34",
+      "39",
+      "44"
+    ],
+    "answer": "39",
+    "explanation": "15% of 260 = 15/100 x 260 = 39.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "An article bought for Rs.1200 is sold at 20% profit. Find the selling price.",
+    "options": [
+      "1340",
+      "1390",
+      "1440",
+      "1490"
+    ],
+    "answer": "1440",
+    "explanation": "Selling price = 1200 x 120/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Find simple interest on Rs.6000 at 8% per annum for 3 years.",
+    "options": [
+      "1240",
+      "1340",
+      "1440",
+      "1540"
+    ],
+    "answer": "1440",
+    "explanation": "SI = PRT/100 = 6000 x 8 x 3/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Rs.480 is divided in the ratio 3:5. Find the smaller share.",
+    "options": [
+      "140",
+      "160",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "explanation": "Smaller share = 3/(3+5) x 480 = Rs.180.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "The average of 5 numbers is 32. If another number 45 is added, what is the new total?",
+    "options": [
+      "185",
+      "195",
+      "205",
+      "215"
+    ],
+    "answer": "205",
+    "explanation": "Original total = 5 x 32 = 160; new total = 205.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "A can complete a work in 15 days and B in 20 days. Working together, how long will they take?",
+    "options": [
+      "6.6 days",
+      "7.6 days",
+      "8.6 days",
+      "9.6 days"
+    ],
+    "answer": "8.6 days",
+    "explanation": "Combined time = ab/(a+b) = 300/35 = 8.6 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "A car travels at 72 km/h for 3 hours. Find the distance.",
+    "options": [
+      "192",
+      "204",
+      "216",
+      "228"
+    ],
+    "answer": "216",
+    "explanation": "Distance = speed x time = 72 x 3 = 216 km.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "In a data set of 1100 customers, 25% use mobile banking. How many use mobile banking?",
+    "options": [
+      "235",
+      "255",
+      "275",
+      "295"
+    ],
+    "answer": "275",
+    "explanation": "25% of 1100 = 275.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "What is 15% of 320?",
+    "options": [
+      "38",
+      "43",
+      "48",
+      "53"
+    ],
+    "answer": "48",
+    "explanation": "15% of 320 = 15/100 x 320 = 48.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "An article bought for Rs.1000 is sold at 20% profit. Find the selling price.",
+    "options": [
+      "1100",
+      "1150",
+      "1200",
+      "1250"
+    ],
+    "answer": "1200",
+    "explanation": "Selling price = 1000 x 120/100 = Rs.1200.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Find simple interest on Rs.6000 at 8% per annum for 3 years.",
+    "options": [
+      "1240",
+      "1340",
+      "1440",
+      "1540"
+    ],
+    "answer": "1440",
+    "explanation": "SI = PRT/100 = 6000 x 8 x 3/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Rs.480 is divided in the ratio 3:5. Find the smaller share.",
+    "options": [
+      "140",
+      "160",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "explanation": "Smaller share = 3/(3+5) x 480 = Rs.180.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "The average of 5 numbers is 34. If another number 45 is added, what is the new total?",
+    "options": [
+      "195",
+      "205",
+      "215",
+      "225"
+    ],
+    "answer": "215",
+    "explanation": "Original total = 5 x 34 = 170; new total = 215.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "A can complete a work in 15 days and B in 20 days. Working together, how long will they take?",
+    "options": [
+      "6.6 days",
+      "7.6 days",
+      "8.6 days",
+      "9.6 days"
+    ],
+    "answer": "8.6 days",
+    "explanation": "Combined time = ab/(a+b) = 300/35 = 8.6 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "A car travels at 60 km/h for 3 hours. Find the distance.",
+    "options": [
+      "156",
+      "168",
+      "180",
+      "192"
+    ],
+    "answer": "180",
+    "explanation": "Distance = speed x time = 60 x 3 = 180 km.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "In a data set of 1100 customers, 25% use mobile banking. How many use mobile banking?",
+    "options": [
+      "235",
+      "255",
+      "275",
+      "295"
+    ],
+    "answer": "275",
+    "explanation": "25% of 1100 = 275.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "What is 15% of 280?",
+    "options": [
+      "32",
+      "37",
+      "42",
+      "47"
+    ],
+    "answer": "42",
+    "explanation": "15% of 280 = 15/100 x 280 = 42.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "An article bought for Rs.1300 is sold at 20% profit. Find the selling price.",
+    "options": [
+      "1460",
+      "1510",
+      "1560",
+      "1610"
+    ],
+    "answer": "1560",
+    "explanation": "Selling price = 1300 x 120/100 = Rs.1560.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Find simple interest on Rs.6000 at 8% per annum for 3 years.",
+    "options": [
+      "1240",
+      "1340",
+      "1440",
+      "1540"
+    ],
+    "answer": "1440",
+    "explanation": "SI = PRT/100 = 6000 x 8 x 3/100 = Rs.1440.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "In a row of 30 students, Kiran is 6th from the left. What is Kiran's position from the right?",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "answer": "25",
+    "explanation": "Position from right = 30 - 6 + 1 = 25.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "If each letter of LOAN is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "NQCP",
+      "PCQN",
+      "LOAN",
+      "NQCN"
+    ],
+    "answer": "NQCP",
+    "explanation": "Each letter moves 2 step(s) forward, so LOAN becomes NQCP.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "If A > B, B >= C and C > D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = C",
+      "B < D"
+    ],
+    "answer": "A > D",
+    "explanation": "A > B >= C > D, so A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "In a row of 36 students, Kiran is 12th from the left. What is Kiran's position from the right?",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "answer": "25",
+    "explanation": "Position from right = 36 - 12 + 1 = 25.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "If each letter of CASH is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "ECUJ",
+      "JUCE",
+      "CASH",
+      "ECUH"
+    ],
+    "answer": "ECUJ",
+    "explanation": "Each letter moves 2 step(s) forward, so CASH becomes ECUJ.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "If A > B, B >= C and C > D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = C",
+      "B < D"
+    ],
+    "answer": "A > D",
+    "explanation": "A > B >= C > D, so A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "In a row of 34 students, Kiran is 11th from the left. What is Kiran's position from the right?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "answer": "24",
+    "explanation": "Position from right = 34 - 11 + 1 = 24.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "If each letter of FUND is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "HWPF",
+      "FPWH",
+      "FUND",
+      "HWPD"
+    ],
+    "answer": "HWPF",
+    "explanation": "Each letter moves 2 step(s) forward, so FUND becomes HWPF.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "If A > B, B >= C and C > D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = C",
+      "B < D"
+    ],
+    "answer": "A > D",
+    "explanation": "A > B >= C > D, so A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "In a row of 32 students, Kiran is 10th from the left. What is Kiran's position from the right?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "answer": "23",
+    "explanation": "Position from right = 32 - 10 + 1 = 23.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "If each letter of RATE is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "TCVG",
+      "GVCT",
+      "RATE",
+      "TCVE"
+    ],
+    "answer": "TCVG",
+    "explanation": "Each letter moves 2 step(s) forward, so RATE becomes TCVG.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "If A > B, B >= C and C > D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = C",
+      "B < D"
+    ],
+    "answer": "A > D",
+    "explanation": "A > B >= C > D, so A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "In a row of 30 students, Kiran is 9th from the left. What is Kiran's position from the right?",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "answer": "22",
+    "explanation": "Position from right = 30 - 9 + 1 = 22.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "If each letter of BANK is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "DCPM",
+      "MPCD",
+      "BANK",
+      "DCPK"
+    ],
+    "answer": "DCPM",
+    "explanation": "Each letter moves 2 step(s) forward, so BANK becomes DCPM.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "If A > B, B >= C and C > D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = C",
+      "B < D"
+    ],
+    "answer": "A > D",
+    "explanation": "A > B >= C > D, so A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "In a row of 36 students, Kiran is 8th from the left. What is Kiran's position from the right?",
+    "options": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "answer": "29",
+    "explanation": "Position from right = 36 - 8 + 1 = 29.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "If each letter of LOAN is shifted 2 step(s) forward, what is the code?",
+    "options": [
+      "NQCP",
+      "PCQN",
+      "LOAN",
+      "NQCN"
+    ],
+    "answer": "NQCP",
+    "explanation": "Each letter moves 2 step(s) forward, so LOAN becomes NQCP.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are cards. No definite card-file relation follows.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "A person walks 10 m north, turns right and walks 8 m, then turns right and walks 10 m. How far is he from the start?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "18 m"
+    ],
+    "answer": "8 m",
+    "explanation": "North and south movements cancel; he remains 8 m east of the start.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Pointing to a boy, Meena says, 'He is the son of my father's only daughter.' How is the boy related to Meena?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": "Son",
+    "explanation": "Meena's father's only daughter is Meena. The boy is Meena's son.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  }
+]
