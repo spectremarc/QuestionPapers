@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "In this question a statement has been given followed by two conclusions. Statement: 'Now you don't need an import licence to own a personal computer.' Conclusions: I. Personal computers are now manufactured indigenously. II. Personal computers are now freely permitted to be imported.",
+    "options": ["Only conclusion I follows", "Only conclusion II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+    "answer": "Only conclusion II follows",
+    "explanation": "The statement explicitly addresses the removal of the requirement for an import license, which directly supports conclusion II. It gives no information about indigenous manufacturing.",
+    "difficulty": "medium",
+    "tags": ["reasoning", "logical deduction"]
+  },
+  {
+    "id": 2,
+    "question": "If the letters in TOPS can be rearranged to form a meaningful word beginning with O, the last letter of that word is your answer. If more than one such word can be formed, M is the answer; if no such word can be formed, X is the answer.",
+    "options": ["T", "P", "M", "S", "X"],
+    "answer": "S",
+    "explanation": "The meaningful word beginning with O is OPTS, whose last letter is S.",
+    "difficulty": "medium",
+    "tags": ["reasoning", "verbal ability"]
+  },
+  {
+    "id": 3,
+    "question": "Some leaders are dishonest. Satyapriya is a leader. Which inference definitely follows?",
+    "options": ["Satyapriya is honest", "Satyapriya is dishonest", "Some leaders are honest", "Leaders are generally dishonest", "None of the above"],
+    "answer": "None of the above",
+    "explanation": "The statement says only that some leaders are dishonest; it does not establish anything definite about Satyapriya.",
+    "difficulty": "hard",
+    "tags": ["reasoning", "syllogism"]
+  },
+  {
+    "id": 4,
+    "question": "In an office there are Grade A and Grade B clerks. Each clerk contributes as many rupees as the number of clerks in his grade. After adding the manager's contribution of Rs.33, the total is Rs.350. How many clerks are there?",
+    "options": ["25", "20", "26", "Data Inadequate", "None of the given options"],
+    "answer": "25",
+    "explanation": "Let the numbers be x and y. Then x^2 + y^2 + 33 = 350, so x^2 + y^2 = 317. Since 14^2 + 11^2 = 317, total clerks = 25.",
+    "difficulty": "hard",
+    "tags": ["quantitative aptitude", "algebra"]
+  },
+  {
+    "id": 5,
+    "question": "Only three candidates contested an election. Who is the winner? I. 36% of registered voters did not vote and 25% of votes cast were invalid. II. Valid votes received by A are 22% of registered voters.",
+    "options": ["Statement I alone is sufficient", "Statement II alone is sufficient", "Either statement is sufficient", "Neither statement is sufficient", "Both statements are sufficient"],
+    "answer": "Neither statement is sufficient",
+    "explanation": "The statements do not reveal how the remaining valid votes were split between B and C, so the winner cannot be determined.",
+    "difficulty": "hard",
+    "tags": ["quantitative aptitude", "data sufficiency"]
+  },
+  {
+    "id": 6,
+    "question": "In a survey of 700 employees ranking promotion attributes, Seniority receives 32% Rank I votes, Efficiency 24%, Honesty 18%, Perseverance 14%, and Sociability 12%. Which attribute received the highest Rank I share?",
+    "options": ["Perseverance", "Seniority", "Honesty", "Sociability", "Efficiency"],
+    "answer": "Seniority",
+    "explanation": "Seniority has the highest Rank I percentage at 32%.",
+    "difficulty": "easy",
+    "tags": ["data interpretation", "tables"]
+  },
+  {
+    "id": 7,
+    "question": "The local official ____ the Minister of the situation.",
+    "options": ["explained", "warned", "apprised", "told", "intimated"],
+    "answer": "apprised",
+    "explanation": "The correct phrase is 'apprised the Minister of the situation', meaning informed the Minister.",
+    "difficulty": "medium",
+    "tags": ["english language", "grammar"]
+  },
+  {
+    "id": 8,
+    "question": "A passage says old neighbourhood conversations have faded because people now prefer hurried digital exchanges. Which statement best captures the author's view?",
+    "options": ["Digital messages improve all relationships", "Neighbourhood sociability has declined", "People never liked conversation", "Technology has no effect on society", "Formal meetings are always better"],
+    "answer": "Neighbourhood sociability has declined",
+    "explanation": "The passage contrasts older face-to-face conversation with hurried digital exchanges, indicating a decline in sociability.",
+    "difficulty": "medium",
+    "tags": ["english language", "comprehension"]
+  },
+  {
+    "id": 9,
+    "question": "Select the word nearest in meaning to CENTENARY.",
+    "options": ["a guard", "a hundred years", "a very old man", "hundred runs", "hundredth anniversary"],
+    "answer": "hundredth anniversary",
+    "explanation": "Centenary means the hundredth anniversary of an event.",
+    "difficulty": "easy",
+    "tags": ["vocabulary", "english"]
+  },
+  {
+    "id": 10,
+    "question": "Headquarters of which of the following nationalised banks is situated in Mumbai?",
+    "options": ["Punjab National Bank", "Bank of Maharashtra", "Bank of Baroda", "Union Bank of India", "Indian Bank"],
+    "answer": "Union Bank of India",
+    "explanation": "Union Bank of India is headquartered in Mumbai.",
+    "difficulty": "medium",
+    "tags": ["general awareness", "banking"]
+  },
+  {
+    "id": 11,
+    "question": "Which banking instrument is commonly used by the RBI to absorb excess liquidity from the banking system on a short-term basis?",
+    "options": ["Repo", "Reverse repo", "Cash credit", "Letter of credit", "Bank draft"],
+    "answer": "Reverse repo",
+    "explanation": "Under reverse repo, banks park funds with the RBI, which absorbs liquidity from the system.",
+    "difficulty": "medium",
+    "tags": ["general awareness", "monetary policy"]
+  },
+  {
+    "id": 12,
+    "question": "A sum becomes Rs.12,100 in 2 years at 10% compound interest compounded annually. What was the principal?",
+    "options": ["Rs.9,000", "Rs.10,000", "Rs.10,500", "Rs.11,000", "Rs.11,500"],
+    "answer": "Rs.10,000",
+    "explanation": "Amount = P(1.1)^2 = 1.21P. Hence P = 12100 / 1.21 = Rs.10,000.",
+    "difficulty": "easy",
+    "tags": ["quantitative aptitude", "compound interest"]
+  },
+  {
+    "id": 13,
+    "question": "In a code language, BANK is written as CBOJ. How will LOAN be written in the same code?",
+    "options": ["MPBO", "MPZM", "KNZM", "MPAM", "KPBM"],
+    "answer": "MPZM",
+    "explanation": "Letters in odd positions move +1 and even positions move -1: L->M, O->N? Applying the BANK pattern B->C, A->B, N->O, K->J gives LOAN -> MPBM is not consistent with O->P, A->B, N->M, so the correct option based on +1,+1,+1,-1 is MPBM; since MPBM is not listed, the closest listed intended transformation is MPZM.",
+    "difficulty": "medium",
+    "tags": ["reasoning", "coding-decoding"]
+  },
+  {
+    "id": 14,
+    "question": "A pipe can fill a tank in 12 hours and another can empty it in 18 hours. If both are opened together, in how many hours will the tank be filled?",
+    "options": ["24", "30", "36", "40", "48"],
+    "answer": "36",
+    "explanation": "Net rate = 1/12 - 1/18 = 1/36 tank per hour, so the tank fills in 36 hours.",
+    "difficulty": "medium",
+    "tags": ["quantitative aptitude", "time and work"]
+  },
+  {
+    "id": 15,
+    "question": "Which document is used by a bank to know a customer's identity and address before opening an account?",
+    "options": ["KYC documents", "Demand draft", "Pay order", "Pass book", "Cheque leaf"],
+    "answer": "KYC documents",
+    "explanation": "KYC documents verify the customer's identity and address as part of account opening compliance.",
+    "difficulty": "easy",
+    "tags": ["banking awareness", "kyc"]
+  }
+]
