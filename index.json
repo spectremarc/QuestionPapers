@@ -6,10 +6,22 @@
       "exam": "Banking",
       "enabled": true
     },
+    "sbi-po": {
+      "title": "SBI PO AI Generated Mock",
+      "path": "papers/banking/sbi-po-ai.json",
+      "exam": "Banking",
+      "enabled": true
+    },
     "jee-main": {
       "title": "JEE Main AI Generated Mock",
       "path": "papers/jee/main-ai.json",
       "exam": "JEE Main",
+      "enabled": true
+    },
+    "jee-advanced": {
+      "title": "JEE Advanced AI Generated Mock",
+      "path": "papers/jee/advanced-ai.json",
+      "exam": "JEE Advanced",
       "enabled": true
     },
     "neet-ug": {
