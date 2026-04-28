@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "In a row of 25 students, A is 7th from the left and B is 9th from the right. If C is exactly midway between A and B, what is C's position from the left?",
+    "options": ["10th", "11th", "12th", "13th", "Cannot be determined"],
+    "answer": "12th",
+    "explanation": "B is 9th from right, so B is 17th from left. Midway between 7th and 17th is the 12th position.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "reasoning", "ranking"]
+  },
+  {
+    "id": 2,
+    "question": "If 'BANK' is coded as 'CBOL' by shifting each letter one step forward, how will 'LOAN' be coded?",
+    "options": ["MPBO", "MPBM", "KPBM", "MNBO", "LPBO"],
+    "answer": "MPBO",
+    "explanation": "Each letter is shifted one step forward: L->M, O->P, A->B, N->O.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "reasoning", "coding-decoding"]
+  },
+  {
+    "id": 3,
+    "question": "Five people P, Q, R, S and T sit in a line facing north. P sits immediately left of R. Q sits at one end. T sits immediately right of S. If R is in the middle, who sits at the right end?",
+    "options": ["P", "Q", "R", "S", "T"],
+    "answer": "T",
+    "explanation": "With R in the middle and P immediately left of R, positions 2 and 3 are P and R. T is immediately right of S, so S and T occupy positions 4 and 5. Q is at the remaining end, position 1. Hence T is at the right end.",
+    "difficulty": "medium",
+    "tags": ["sbi po", "reasoning", "seating arrangement"]
+  },
+  {
+    "id": 4,
+    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
+    "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows", "Either I or II follows"],
+    "answer": "Only II follows",
+    "explanation": "All cards are papers, so some papers are definitely cards. There is no definite relation between cards and files.",
+    "difficulty": "medium",
+    "tags": ["sbi po", "reasoning", "syllogism"]
+  },
+  {
+    "id": 5,
+    "question": "A shopkeeper marks an article 40% above cost price and gives a discount of 20%. What is his profit percentage?",
+    "options": ["8%", "10%", "12%", "15%", "20%"],
+    "answer": "12%",
+    "explanation": "Let CP = 100. Marked price = 140. Selling price after 20% discount = 112. Profit = 12%.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "quantitative aptitude", "profit and loss"]
+  },
+  {
+    "id": 6,
+    "question": "A can complete a work in 15 days and B in 20 days. Working together, in how many days will they complete the work?",
+    "options": ["6 days", "60/7 days", "8 days", "9 days", "10 days"],
+    "answer": "60/7 days",
+    "explanation": "Combined rate = 1/15 + 1/20 = 7/60 work per day. Time = 60/7 days.",
+    "difficulty": "medium",
+    "tags": ["sbi po", "quantitative aptitude", "time and work"]
+  },
+  {
+    "id": 7,
+    "question": "The average of five numbers is 42. If one number 50 is removed, the average becomes 40. What is the removed number?",
+    "options": ["42", "44", "46", "48", "50"],
+    "answer": "50",
+    "explanation": "Total of five numbers = 5*42 = 210. Total of remaining four = 4*40 = 160. Removed number = 50.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "quantitative aptitude", "averages"]
+  },
+  {
+    "id": 8,
+    "question": "A train 180 m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "options": ["60", "66", "72", "80", "90"],
+    "answer": "72",
+    "explanation": "Speed = 180/9 = 20 m/s = 20*18/5 = 72 km/h.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "quantitative aptitude", "speed time distance"]
+  },
+  {
+    "id": 9,
+    "question": "Choose the word most nearly opposite in meaning to 'TRANSPARENT'.",
+    "options": ["Clear", "Opaque", "Bright", "Lucid", "Visible"],
+    "answer": "Opaque",
+    "explanation": "Transparent means allowing light to pass through; opaque means not transparent.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "english", "vocabulary"]
+  },
+  {
+    "id": 10,
+    "question": "Choose the grammatically correct sentence.",
+    "options": ["Neither of the answers are correct.", "Neither of the answers is correct.", "Neither answers is correct.", "Neither answer are correct.", "Neither of answer is correct."],
+    "answer": "Neither of the answers is correct.",
+    "explanation": "'Neither' takes a singular verb in this construction, so 'is' is correct.",
+    "difficulty": "medium",
+    "tags": ["sbi po", "english", "grammar"]
+  },
+  {
+    "id": 11,
+    "question": "Which organisation regulates scheduled commercial banks in India?",
+    "options": ["SEBI", "RBI", "IRDAI", "NABARD", "SIDBI"],
+    "answer": "RBI",
+    "explanation": "The Reserve Bank of India is the banking regulator for scheduled commercial banks.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "banking awareness", "regulation"]
+  },
+  {
+    "id": 12,
+    "question": "What does CRR stand for in banking?",
+    "options": ["Cash Reserve Ratio", "Credit Recovery Rate", "Central Repo Rate", "Cash Repo Return", "Credit Reserve Return"],
+    "answer": "Cash Reserve Ratio",
+    "explanation": "CRR is the percentage of deposits banks must keep as cash reserves with the RBI.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "banking awareness", "monetary policy"]
+  },
+  {
+    "id": 13,
+    "question": "In computer awareness, which of the following is an input device?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker", "Projector"],
+    "answer": "Keyboard",
+    "explanation": "A keyboard is used to input data into a computer.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "computer aptitude", "basics"]
+  },
+  {
+    "id": 14,
+    "question": "A pie chart shows savings distribution: FD 30%, Mutual Funds 25%, Gold 20%, Savings Account 15%, Cash 10%. If total savings are Rs.2,40,000, how much is invested in Gold?",
+    "options": ["Rs.36,000", "Rs.42,000", "Rs.48,000", "Rs.54,000", "Rs.60,000"],
+    "answer": "Rs.48,000",
+    "explanation": "Gold share = 20% of 2,40,000 = Rs.48,000.",
+    "difficulty": "easy",
+    "tags": ["sbi po", "data interpretation", "percentage"]
+  },
+  {
+    "id": 15,
+    "question": "A sentence is given with a blank: The committee decided to ____ the proposal until more data was available.",
+    "options": ["defer", "defy", "define", "delete", "depart"],
+    "answer": "defer",
+    "explanation": "To defer a proposal means to postpone its consideration or decision.",
+    "difficulty": "medium",
+    "tags": ["sbi po", "english", "cloze usage"]
+  }
+]
