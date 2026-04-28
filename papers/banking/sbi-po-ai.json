@@ -1,137 +1,1902 @@
 [
   {
     "id": 1,
-    "question": "In a row of 25 students, A is 7th from the left and B is 9th from the right. If C is exactly midway between A and B, what is C's position from the left?",
-    "options": ["10th", "11th", "12th", "13th", "Cannot be determined"],
-    "answer": "12th",
-    "explanation": "B is 9th from right, so B is 17th from left. Midway between 7th and 17th is the 12th position.",
-    "difficulty": "easy",
-    "tags": ["sbi po", "reasoning", "ranking"]
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 2,
-    "question": "If 'BANK' is coded as 'CBOL' by shifting each letter one step forward, how will 'LOAN' be coded?",
-    "options": ["MPBO", "MPBM", "KPBM", "MNBO", "LPBO"],
-    "answer": "MPBO",
-    "explanation": "Each letter is shifted one step forward: L->M, O->P, A->B, N->O.",
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
     "difficulty": "easy",
-    "tags": ["sbi po", "reasoning", "coding-decoding"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 3,
-    "question": "Five people P, Q, R, S and T sit in a line facing north. P sits immediately left of R. Q sits at one end. T sits immediately right of S. If R is in the middle, who sits at the right end?",
-    "options": ["P", "Q", "R", "S", "T"],
-    "answer": "T",
-    "explanation": "With R in the middle and P immediately left of R, positions 2 and 3 are P and R. T is immediately right of S, so S and T occupy positions 4 and 5. Q is at the remaining end, position 1. Hence T is at the right end.",
-    "difficulty": "medium",
-    "tags": ["sbi po", "reasoning", "seating arrangement"]
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 4,
-    "question": "Statements: All cards are papers. Some papers are files. Conclusions: I. Some cards are files. II. Some papers are cards.",
-    "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows", "Either I or II follows"],
-    "answer": "Only II follows",
-    "explanation": "All cards are papers, so some papers are definitely cards. There is no definite relation between cards and files.",
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
     "difficulty": "medium",
-    "tags": ["sbi po", "reasoning", "syllogism"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 5,
-    "question": "A shopkeeper marks an article 40% above cost price and gives a discount of 20%. What is his profit percentage?",
-    "options": ["8%", "10%", "12%", "15%", "20%"],
-    "answer": "12%",
-    "explanation": "Let CP = 100. Marked price = 140. Selling price after 20% discount = 112. Profit = 12%.",
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
     "difficulty": "easy",
-    "tags": ["sbi po", "quantitative aptitude", "profit and loss"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 6,
-    "question": "A can complete a work in 15 days and B in 20 days. Working together, in how many days will they complete the work?",
-    "options": ["6 days", "60/7 days", "8 days", "9 days", "10 days"],
-    "answer": "60/7 days",
-    "explanation": "Combined rate = 1/15 + 1/20 = 7/60 work per day. Time = 60/7 days.",
-    "difficulty": "medium",
-    "tags": ["sbi po", "quantitative aptitude", "time and work"]
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 7,
-    "question": "The average of five numbers is 42. If one number 50 is removed, the average becomes 40. What is the removed number?",
-    "options": ["42", "44", "46", "48", "50"],
-    "answer": "50",
-    "explanation": "Total of five numbers = 5*42 = 210. Total of remaining four = 4*40 = 160. Removed number = 50.",
-    "difficulty": "easy",
-    "tags": ["sbi po", "quantitative aptitude", "averages"]
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 8,
-    "question": "A train 180 m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "options": ["60", "66", "72", "80", "90"],
-    "answer": "72",
-    "explanation": "Speed = 180/9 = 20 m/s = 20*18/5 = 72 km/h.",
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
     "difficulty": "easy",
-    "tags": ["sbi po", "quantitative aptitude", "speed time distance"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 9,
-    "question": "Choose the word most nearly opposite in meaning to 'TRANSPARENT'.",
-    "options": ["Clear", "Opaque", "Bright", "Lucid", "Visible"],
-    "answer": "Opaque",
-    "explanation": "Transparent means allowing light to pass through; opaque means not transparent.",
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
     "difficulty": "easy",
-    "tags": ["sbi po", "english", "vocabulary"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 10,
-    "question": "Choose the grammatically correct sentence.",
-    "options": ["Neither of the answers are correct.", "Neither of the answers is correct.", "Neither answers is correct.", "Neither answer are correct.", "Neither of answer is correct."],
-    "answer": "Neither of the answers is correct.",
-    "explanation": "'Neither' takes a singular verb in this construction, so 'is' is correct.",
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
     "difficulty": "medium",
-    "tags": ["sbi po", "english", "grammar"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 11,
-    "question": "Which organisation regulates scheduled commercial banks in India?",
-    "options": ["SEBI", "RBI", "IRDAI", "NABARD", "SIDBI"],
-    "answer": "RBI",
-    "explanation": "The Reserve Bank of India is the banking regulator for scheduled commercial banks.",
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
     "difficulty": "easy",
-    "tags": ["sbi po", "banking awareness", "regulation"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 12,
-    "question": "What does CRR stand for in banking?",
-    "options": ["Cash Reserve Ratio", "Credit Recovery Rate", "Central Repo Rate", "Cash Repo Return", "Credit Reserve Return"],
-    "answer": "Cash Reserve Ratio",
-    "explanation": "CRR is the percentage of deposits banks must keep as cash reserves with the RBI.",
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
     "difficulty": "easy",
-    "tags": ["sbi po", "banking awareness", "monetary policy"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 13,
-    "question": "In computer awareness, which of the following is an input device?",
-    "options": ["Monitor", "Printer", "Keyboard", "Speaker", "Projector"],
-    "answer": "Keyboard",
-    "explanation": "A keyboard is used to input data into a computer.",
-    "difficulty": "easy",
-    "tags": ["sbi po", "computer aptitude", "basics"]
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 14,
-    "question": "A pie chart shows savings distribution: FD 30%, Mutual Funds 25%, Gold 20%, Savings Account 15%, Cash 10%. If total savings are Rs.2,40,000, how much is invested in Gold?",
-    "options": ["Rs.36,000", "Rs.42,000", "Rs.48,000", "Rs.54,000", "Rs.60,000"],
-    "answer": "Rs.48,000",
-    "explanation": "Gold share = 20% of 2,40,000 = Rs.48,000.",
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
     "difficulty": "easy",
-    "tags": ["sbi po", "data interpretation", "percentage"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 15,
-    "question": "A sentence is given with a blank: The committee decided to ____ the proposal until more data was available.",
-    "options": ["defer", "defy", "define", "delete", "depart"],
-    "answer": "defer",
-    "explanation": "To defer a proposal means to postpone its consideration or decision.",
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
     "difficulty": "medium",
-    "tags": ["sbi po", "english", "cloze usage"]
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What is 10% of 200?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20",
+    "explanation": "10% of 200 = 10/100 x 200 = 20.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "An article bought for Rs.1100 is sold at 15% profit. What is the selling price?",
+    "options": [
+      "1205",
+      "1235",
+      "1265",
+      "1295",
+      "1325"
+    ],
+    "answer": "1265",
+    "explanation": "Selling price = 1100 x (100 + 15) / 100 = Rs.1265.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Find the simple interest on Rs.6000 at 7% per annum for 4 years.",
+    "options": [
+      "1580",
+      "1630",
+      "1680",
+      "1730",
+      "1780"
+    ],
+    "answer": "1680",
+    "explanation": "SI = PRT/100 = 6000 x 7 x 4 / 100 = Rs.1680.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "A sum of Rs.160 is divided in the ratio 3:5. What is the smaller share?",
+    "options": [
+      "40",
+      "60",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "60",
+    "explanation": "Smaller share = 3/(3+5) x 160 = Rs.60.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "The average of 6 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "240",
+      "245",
+      "250",
+      "255",
+      "260"
+    ],
+    "answer": "250",
+    "explanation": "Original total = 6 x 35. New total = 210 + 40 = 250.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "In a survey of 500 people, 20% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100",
+    "explanation": "20% of 500 = 100.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What is 10% of 280?",
+    "options": [
+      "18",
+      "23",
+      "28",
+      "33",
+      "38"
+    ],
+    "answer": "28",
+    "explanation": "10% of 280 = 10/100 x 280 = 28.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "An article bought for Rs.1100 is sold at 21% profit. What is the selling price?",
+    "options": [
+      "1271",
+      "1301",
+      "1331",
+      "1361",
+      "1391"
+    ],
+    "answer": "1331",
+    "explanation": "Selling price = 1100 x (100 + 21) / 100 = Rs.1331.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Find the simple interest on Rs.6000 at 5% per annum for 2 years.",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650",
+      "700"
+    ],
+    "answer": "600",
+    "explanation": "SI = PRT/100 = 6000 x 5 x 2 / 100 = Rs.600.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "A sum of Rs.240 is divided in the ratio 5:7. What is the smaller share?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "answer": "100",
+    "explanation": "Smaller share = 5/(5+7) x 240 = Rs.100.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "The average of 8 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "310",
+      "315",
+      "320",
+      "325",
+      "330"
+    ],
+    "answer": "320",
+    "explanation": "Original total = 8 x 35. New total = 280 + 40 = 320.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "In a survey of 700 people, 30% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "190",
+      "200",
+      "210",
+      "220",
+      "230"
+    ],
+    "answer": "210",
+    "explanation": "30% of 700 = 210.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "What is 10% of 240?",
+    "options": [
+      "14",
+      "19",
+      "24",
+      "29",
+      "34"
+    ],
+    "answer": "24",
+    "explanation": "10% of 240 = 10/100 x 240 = 24.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "An article bought for Rs.1100 is sold at 15% profit. What is the selling price?",
+    "options": [
+      "1205",
+      "1235",
+      "1265",
+      "1295",
+      "1325"
+    ],
+    "answer": "1265",
+    "explanation": "Selling price = 1100 x (100 + 15) / 100 = Rs.1265.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Find the simple interest on Rs.6000 at 7% per annum for 3 years.",
+    "options": [
+      "1160",
+      "1210",
+      "1260",
+      "1310",
+      "1360"
+    ],
+    "answer": "1260",
+    "explanation": "SI = PRT/100 = 6000 x 7 x 3 / 100 = Rs.1260.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "A sum of Rs.160 is divided in the ratio 3:5. What is the smaller share?",
+    "options": [
+      "40",
+      "60",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "60",
+    "explanation": "Smaller share = 3/(3+5) x 160 = Rs.60.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "The average of 6 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "240",
+      "245",
+      "250",
+      "255",
+      "260"
+    ],
+    "answer": "250",
+    "explanation": "Original total = 6 x 35. New total = 210 + 40 = 250.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "In a survey of 500 people, 20% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100",
+    "explanation": "20% of 500 = 100.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "In a row of 24 candidates, Arun is 5th from the left and 18th from the right. What is Arun's position from the left?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "Cannot be determined"
+    ],
+    "answer": "6",
+    "explanation": "Position from left = total - position from right + 1 = 24 - 18 + 1 = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Find the next number in the series: 5, 8, 14, 23, 35, ?",
+    "options": [
+      "44",
+      "47",
+      "50",
+      "53",
+      "56"
+    ],
+    "answer": "50",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "data sufficiency"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "In a row of 25 candidates, Arun is 7th from the left and 17th from the right. What is Arun's position from the left?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "Cannot be determined"
+    ],
+    "answer": "8",
+    "explanation": "Position from left = total - position from right + 1 = 25 - 17 + 1 = 8.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Find the next number in the series: 3, 6, 12, 21, 33, ?",
+    "options": [
+      "42",
+      "45",
+      "48",
+      "51",
+      "54"
+    ],
+    "answer": "48",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "data sufficiency"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "In a row of 26 candidates, Arun is 9th from the left and 16th from the right. What is Arun's position from the left?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "Cannot be determined"
+    ],
+    "answer": "10",
+    "explanation": "Position from left = total - position from right + 1 = 26 - 16 + 1 = 10.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Find the next number in the series: 5, 8, 14, 23, 35, ?",
+    "options": [
+      "44",
+      "47",
+      "50",
+      "53",
+      "56"
+    ],
+    "answer": "50",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "sbi po",
+      "reasoning",
+      "data sufficiency"
+    ]
   }
 ]

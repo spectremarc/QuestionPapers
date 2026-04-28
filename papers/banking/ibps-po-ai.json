@@ -1,137 +1,1902 @@
 [
   {
     "id": 1,
-    "question": "In this question a statement has been given followed by two conclusions. Statement: 'Now you don't need an import licence to own a personal computer.' Conclusions: I. Personal computers are now manufactured indigenously. II. Personal computers are now freely permitted to be imported.",
-    "options": ["Only conclusion I follows", "Only conclusion II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
-    "answer": "Only conclusion II follows",
-    "explanation": "The statement explicitly addresses the removal of the requirement for an import license, which directly supports conclusion II. It gives no information about indigenous manufacturing.",
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
     "difficulty": "medium",
-    "tags": ["reasoning", "logical deduction"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 2,
-    "question": "If the letters in TOPS can be rearranged to form a meaningful word beginning with O, the last letter of that word is your answer. If more than one such word can be formed, M is the answer; if no such word can be formed, X is the answer.",
-    "options": ["T", "P", "M", "S", "X"],
-    "answer": "S",
-    "explanation": "The meaningful word beginning with O is OPTS, whose last letter is S.",
-    "difficulty": "medium",
-    "tags": ["reasoning", "verbal ability"]
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 3,
-    "question": "Some leaders are dishonest. Satyapriya is a leader. Which inference definitely follows?",
-    "options": ["Satyapriya is honest", "Satyapriya is dishonest", "Some leaders are honest", "Leaders are generally dishonest", "None of the above"],
-    "answer": "None of the above",
-    "explanation": "The statement says only that some leaders are dishonest; it does not establish anything definite about Satyapriya.",
-    "difficulty": "hard",
-    "tags": ["reasoning", "syllogism"]
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 4,
-    "question": "In an office there are Grade A and Grade B clerks. Each clerk contributes as many rupees as the number of clerks in his grade. After adding the manager's contribution of Rs.33, the total is Rs.350. How many clerks are there?",
-    "options": ["25", "20", "26", "Data Inadequate", "None of the given options"],
-    "answer": "25",
-    "explanation": "Let the numbers be x and y. Then x^2 + y^2 + 33 = 350, so x^2 + y^2 = 317. Since 14^2 + 11^2 = 317, total clerks = 25.",
-    "difficulty": "hard",
-    "tags": ["quantitative aptitude", "algebra"]
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 5,
-    "question": "Only three candidates contested an election. Who is the winner? I. 36% of registered voters did not vote and 25% of votes cast were invalid. II. Valid votes received by A are 22% of registered voters.",
-    "options": ["Statement I alone is sufficient", "Statement II alone is sufficient", "Either statement is sufficient", "Neither statement is sufficient", "Both statements are sufficient"],
-    "answer": "Neither statement is sufficient",
-    "explanation": "The statements do not reveal how the remaining valid votes were split between B and C, so the winner cannot be determined.",
-    "difficulty": "hard",
-    "tags": ["quantitative aptitude", "data sufficiency"]
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 6,
-    "question": "In a survey of 700 employees ranking promotion attributes, Seniority receives 32% Rank I votes, Efficiency 24%, Honesty 18%, Perseverance 14%, and Sociability 12%. Which attribute received the highest Rank I share?",
-    "options": ["Perseverance", "Seniority", "Honesty", "Sociability", "Efficiency"],
-    "answer": "Seniority",
-    "explanation": "Seniority has the highest Rank I percentage at 32%.",
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
     "difficulty": "easy",
-    "tags": ["data interpretation", "tables"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 7,
-    "question": "The local official ____ the Minister of the situation.",
-    "options": ["explained", "warned", "apprised", "told", "intimated"],
-    "answer": "apprised",
-    "explanation": "The correct phrase is 'apprised the Minister of the situation', meaning informed the Minister.",
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
     "difficulty": "medium",
-    "tags": ["english language", "grammar"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 8,
-    "question": "A passage says old neighbourhood conversations have faded because people now prefer hurried digital exchanges. Which statement best captures the author's view?",
-    "options": ["Digital messages improve all relationships", "Neighbourhood sociability has declined", "People never liked conversation", "Technology has no effect on society", "Formal meetings are always better"],
-    "answer": "Neighbourhood sociability has declined",
-    "explanation": "The passage contrasts older face-to-face conversation with hurried digital exchanges, indicating a decline in sociability.",
-    "difficulty": "medium",
-    "tags": ["english language", "comprehension"]
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 9,
-    "question": "Select the word nearest in meaning to CENTENARY.",
-    "options": ["a guard", "a hundred years", "a very old man", "hundred runs", "hundredth anniversary"],
-    "answer": "hundredth anniversary",
-    "explanation": "Centenary means the hundredth anniversary of an event.",
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
     "difficulty": "easy",
-    "tags": ["vocabulary", "english"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 10,
-    "question": "Headquarters of which of the following nationalised banks is situated in Mumbai?",
-    "options": ["Punjab National Bank", "Bank of Maharashtra", "Bank of Baroda", "Union Bank of India", "Indian Bank"],
-    "answer": "Union Bank of India",
-    "explanation": "Union Bank of India is headquartered in Mumbai.",
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
     "difficulty": "medium",
-    "tags": ["general awareness", "banking"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 11,
-    "question": "Which banking instrument is commonly used by the RBI to absorb excess liquidity from the banking system on a short-term basis?",
-    "options": ["Repo", "Reverse repo", "Cash credit", "Letter of credit", "Bank draft"],
-    "answer": "Reverse repo",
-    "explanation": "Under reverse repo, banks park funds with the RBI, which absorbs liquidity from the system.",
-    "difficulty": "medium",
-    "tags": ["general awareness", "monetary policy"]
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 12,
-    "question": "A sum becomes Rs.12,100 in 2 years at 10% compound interest compounded annually. What was the principal?",
-    "options": ["Rs.9,000", "Rs.10,000", "Rs.10,500", "Rs.11,000", "Rs.11,500"],
-    "answer": "Rs.10,000",
-    "explanation": "Amount = P(1.1)^2 = 1.21P. Hence P = 12100 / 1.21 = Rs.10,000.",
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
     "difficulty": "easy",
-    "tags": ["quantitative aptitude", "compound interest"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 13,
-    "question": "In a code language, BANK is written as CBOJ by moving the first three letters one step forward and the last letter one step backward. How will LOAN be written?",
-    "options": ["MPBM", "MPBO", "KNZM", "MPAM", "KPBM"],
-    "answer": "MPBM",
-    "explanation": "L, O and A move one step forward to M, P and B. N moves one step backward to M. Hence LOAN becomes MPBM.",
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
     "difficulty": "medium",
-    "tags": ["reasoning", "coding-decoding"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
   },
   {
     "id": 14,
-    "question": "A pipe can fill a tank in 12 hours and another can empty it in 18 hours. If both are opened together, in how many hours will the tank be filled?",
-    "options": ["24", "30", "36", "40", "48"],
-    "answer": "36",
-    "explanation": "Net rate = 1/12 - 1/18 = 1/36 tank per hour, so the tank fills in 36 hours.",
-    "difficulty": "medium",
-    "tags": ["quantitative aptitude", "time and work"]
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
   },
   {
     "id": 15,
-    "question": "Which document is used by a bank to know a customer's identity and address before opening an account?",
-    "options": ["KYC documents", "Demand draft", "Pay order", "Pass book", "Cheque leaf"],
-    "answer": "KYC documents",
-    "explanation": "KYC documents verify the customer's identity and address as part of account opening compliance.",
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
     "difficulty": "easy",
-    "tags": ["banking awareness", "kyc"]
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Choose the synonym of ABUNDANT.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Weak",
+      "Hidden"
+    ],
+    "answer": "Plentiful",
+    "explanation": "Abundant means present in large quantity.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Choose the antonym of RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Ready",
+      "Slow",
+      "Careful",
+      "Silent"
+    ],
+    "answer": "Ready",
+    "explanation": "Reluctant means unwilling; ready is the opposite.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate",
+      "Accommadate"
+    ],
+    "answer": "Accommodate",
+    "explanation": "Accommodate is the correct spelling.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: The manager ____ the report before the meeting.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing",
+      "has review"
+    ],
+    "answer": "reviewed",
+    "explanation": "The sentence refers to a completed past action.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Identify the error: Neither of the two answers are correct.",
+    "options": [
+      "Neither",
+      "of the two",
+      "answers",
+      "are",
+      "No error"
+    ],
+    "answer": "are",
+    "explanation": "With neither, the verb should be singular: is.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Choose the phrase closest in meaning to 'call off'.",
+    "options": [
+      "continue",
+      "cancel",
+      "announce",
+      "invite",
+      "delay"
+    ],
+    "answer": "cancel",
+    "explanation": "Call off means cancel.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Choose the best connector: He was tired, ____ he completed the assignment.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless",
+      "while"
+    ],
+    "answer": "yet",
+    "explanation": "Yet shows contrast between tiredness and completion.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct passive voice: The clerk verified the documents.",
+    "options": [
+      "The documents verified the clerk.",
+      "The documents were verified by the clerk.",
+      "The clerk was verified by documents.",
+      "The documents are verifying.",
+      "The clerk has verified."
+    ],
+    "answer": "The documents were verified by the clerk.",
+    "explanation": "The object becomes the subject in passive voice.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Choose the word that best fits: The policy will ____ small borrowers.",
+    "options": [
+      "benefit",
+      "beneficial",
+      "benefits",
+      "benefiting",
+      "beneficiary"
+    ],
+    "answer": "benefit",
+    "explanation": "After will, the base verb benefit is required.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "In the sentence 'The data are reliable', the word 'reliable' means:",
+    "options": [
+      "incorrect",
+      "trustworthy",
+      "expensive",
+      "recent",
+      "complex"
+    ],
+    "answer": "trustworthy",
+    "explanation": "Reliable means trustworthy or dependable.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "english language",
+      "grammar"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "What is 10% of 200?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20",
+    "explanation": "10% of 200 = 10/100 x 200 = 20.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "An article bought for Rs.1100 is sold at 15% profit. What is the selling price?",
+    "options": [
+      "1205",
+      "1235",
+      "1265",
+      "1295",
+      "1325"
+    ],
+    "answer": "1265",
+    "explanation": "Selling price = 1100 x (100 + 15) / 100 = Rs.1265.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Find the simple interest on Rs.6000 at 7% per annum for 4 years.",
+    "options": [
+      "1580",
+      "1630",
+      "1680",
+      "1730",
+      "1780"
+    ],
+    "answer": "1680",
+    "explanation": "SI = PRT/100 = 6000 x 7 x 4 / 100 = Rs.1680.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "A sum of Rs.160 is divided in the ratio 3:5. What is the smaller share?",
+    "options": [
+      "40",
+      "60",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "60",
+    "explanation": "Smaller share = 3/(3+5) x 160 = Rs.60.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "The average of 6 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "240",
+      "245",
+      "250",
+      "255",
+      "260"
+    ],
+    "answer": "250",
+    "explanation": "Original total = 6 x 35. New total = 210 + 40 = 250.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "In a survey of 500 people, 20% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100",
+    "explanation": "20% of 500 = 100.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What is 10% of 280?",
+    "options": [
+      "18",
+      "23",
+      "28",
+      "33",
+      "38"
+    ],
+    "answer": "28",
+    "explanation": "10% of 280 = 10/100 x 280 = 28.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "An article bought for Rs.1100 is sold at 21% profit. What is the selling price?",
+    "options": [
+      "1271",
+      "1301",
+      "1331",
+      "1361",
+      "1391"
+    ],
+    "answer": "1331",
+    "explanation": "Selling price = 1100 x (100 + 21) / 100 = Rs.1331.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Find the simple interest on Rs.6000 at 5% per annum for 2 years.",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650",
+      "700"
+    ],
+    "answer": "600",
+    "explanation": "SI = PRT/100 = 6000 x 5 x 2 / 100 = Rs.600.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "A sum of Rs.240 is divided in the ratio 5:7. What is the smaller share?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "answer": "100",
+    "explanation": "Smaller share = 5/(5+7) x 240 = Rs.100.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "The average of 8 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "310",
+      "315",
+      "320",
+      "325",
+      "330"
+    ],
+    "answer": "320",
+    "explanation": "Original total = 8 x 35. New total = 280 + 40 = 320.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "In a survey of 700 people, 30% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "190",
+      "200",
+      "210",
+      "220",
+      "230"
+    ],
+    "answer": "210",
+    "explanation": "30% of 700 = 210.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What is 10% of 240?",
+    "options": [
+      "14",
+      "19",
+      "24",
+      "29",
+      "34"
+    ],
+    "answer": "24",
+    "explanation": "10% of 240 = 10/100 x 240 = 24.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "An article bought for Rs.1100 is sold at 15% profit. What is the selling price?",
+    "options": [
+      "1205",
+      "1235",
+      "1265",
+      "1295",
+      "1325"
+    ],
+    "answer": "1265",
+    "explanation": "Selling price = 1100 x (100 + 15) / 100 = Rs.1265.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Find the simple interest on Rs.6000 at 7% per annum for 3 years.",
+    "options": [
+      "1160",
+      "1210",
+      "1260",
+      "1310",
+      "1360"
+    ],
+    "answer": "1260",
+    "explanation": "SI = PRT/100 = 6000 x 7 x 3 / 100 = Rs.1260.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "A sum of Rs.160 is divided in the ratio 3:5. What is the smaller share?",
+    "options": [
+      "40",
+      "60",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "60",
+    "explanation": "Smaller share = 3/(3+5) x 160 = Rs.60.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "The average of 6 numbers is 35. If one more number 40 is added, what is the new total?",
+    "options": [
+      "240",
+      "245",
+      "250",
+      "255",
+      "260"
+    ],
+    "answer": "250",
+    "explanation": "Original total = 6 x 35. New total = 210 + 40 = 250.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "average"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "A can complete a work in 12 days and B in 18 days. Working together, how many days will they take?",
+    "options": [
+      "6.2 days",
+      "7.2 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "answer": "7.2 days",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36, so time = 36/5 = 7.2 days.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "time and work"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "A car travels at 72 km/h for 2 hours. What distance does it cover?",
+    "options": [
+      "132",
+      "138",
+      "144",
+      "150",
+      "156"
+    ],
+    "answer": "144",
+    "explanation": "Distance = speed x time = 72 x 2 = 144 km.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "speed distance"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "In a survey of 500 people, 20% preferred mobile banking. How many people preferred mobile banking?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100",
+    "explanation": "20% of 500 = 100.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "data interpretation",
+      "percentage"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Find the missing number: 6, 8, 12, 18, ?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "26",
+    "explanation": "Differences are 2, 4, 6, so the next difference is 8.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "number series"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "What is 10% of 200?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20",
+    "explanation": "10% of 200 = 10/100 x 200 = 20.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "percentage"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "An article bought for Rs.1100 is sold at 21% profit. What is the selling price?",
+    "options": [
+      "1271",
+      "1301",
+      "1331",
+      "1361",
+      "1391"
+    ],
+    "answer": "1331",
+    "explanation": "Selling price = 1100 x (100 + 21) / 100 = Rs.1331.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "profit and loss"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Find the simple interest on Rs.6000 at 5% per annum for 4 years.",
+    "options": [
+      "1100",
+      "1150",
+      "1200",
+      "1250",
+      "1300"
+    ],
+    "answer": "1200",
+    "explanation": "SI = PRT/100 = 6000 x 5 x 4 / 100 = Rs.1200.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "simple interest"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Find the compound interest on Rs.10,000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "Rs.1,900",
+      "Rs.2,000",
+      "Rs.2,100",
+      "Rs.2,200",
+      "Rs.2,300"
+    ],
+    "answer": "Rs.2,100",
+    "explanation": "Amount = 10000 x 1.1 x 1.1 = 12100, so CI = Rs.2100.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "compound interest"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "A sum of Rs.240 is divided in the ratio 5:7. What is the smaller share?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "answer": "100",
+    "explanation": "Smaller share = 5/(5+7) x 240 = Rs.100.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "quantitative aptitude",
+      "ratio"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "In a row of 24 candidates, Arun is 5th from the left and 18th from the right. What is Arun's position from the left?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "Cannot be determined"
+    ],
+    "answer": "6",
+    "explanation": "Position from left = total - position from right + 1 = 24 - 18 + 1 = 6.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Find the next number in the series: 5, 8, 14, 23, 35, ?",
+    "options": [
+      "44",
+      "47",
+      "50",
+      "53",
+      "56"
+    ],
+    "answer": "50",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "data sufficiency"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "In a row of 25 candidates, Arun is 7th from the left and 17th from the right. What is Arun's position from the left?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "Cannot be determined"
+    ],
+    "answer": "8",
+    "explanation": "Position from left = total - position from right + 1 = 25 - 17 + 1 = 8.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Find the next number in the series: 3, 6, 12, 21, 33, ?",
+    "options": [
+      "42",
+      "45",
+      "48",
+      "51",
+      "54"
+    ],
+    "answer": "48",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "data sufficiency"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "In a row of 26 candidates, Arun is 9th from the left and 16th from the right. What is Arun's position from the left?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "Cannot be determined"
+    ],
+    "answer": "10",
+    "explanation": "Position from left = total - position from right + 1 = 26 - 16 + 1 = 10.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "If A > B, B = C and C >= D, which conclusion definitely follows?",
+    "options": [
+      "A > D",
+      "D > A",
+      "A = D",
+      "B > A",
+      "None follows"
+    ],
+    "answer": "A > D",
+    "explanation": "Since A > B = C and C >= D, A is definitely greater than D.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "inequality"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Find the next number in the series: 5, 8, 14, 23, 35, ?",
+    "options": [
+      "44",
+      "47",
+      "50",
+      "53",
+      "56"
+    ],
+    "answer": "50",
+    "explanation": "The differences are 3, 6, 9, 12, so the next difference is 15.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "series"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Five persons A, B, C, D and E sit in a row facing north. A sits immediately left of C. B sits at the left end. E sits immediately right of D. If C is in the middle, who is at the right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "explanation": "B is at the left end, A and C occupy the next two seats with C in the middle, and D-E occupy the remaining seats. E is at the right end.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "seating arrangement"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Three boxes Red, Blue and Green contain coins, notes and cards, not respectively. Red does not contain notes. Blue contains cards. What does Green contain?",
+    "options": [
+      "Coins",
+      "Notes",
+      "Cards",
+      "Coins or Notes",
+      "Cannot be determined"
+    ],
+    "answer": "Notes",
+    "explanation": "Blue has cards. Red cannot have notes, so Red has coins. Therefore Green has notes.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Question: Is x greater than y? Statements: I. x - y = 4. II. y is positive.",
+    "options": [
+      "I alone is sufficient",
+      "II alone is sufficient",
+      "Either alone is sufficient",
+      "Both together are sufficient",
+      "Neither is sufficient"
+    ],
+    "answer": "I alone is sufficient",
+    "explanation": "From x - y = 4, x is definitely greater than y. Statement II is not needed.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "data sufficiency"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "In a row of 27 candidates, Arun is 11th from the left and 15th from the right. What is Arun's position from the left?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "Cannot be determined"
+    ],
+    "answer": "12",
+    "explanation": "Position from left = total - position from right + 1 = 27 - 15 + 1 = 12.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "ranking"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "If each letter of LOAN is shifted one step forward in the alphabet, what is the code?",
+    "options": [
+      "MPBO",
+      "OBPM",
+      "LOAN",
+      "KN@M",
+      "MPBN"
+    ],
+    "answer": "MPBO",
+    "explanation": "Each letter moves one place forward, so LOAN becomes MPBO.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "coding-decoding"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Statements: All managers are officers. Some officers are clerks. Conclusions: I. Some managers are clerks. II. Some officers are managers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows",
+      "Either I or II follows"
+    ],
+    "answer": "Only II follows",
+    "explanation": "All managers are officers, so at least some officers are managers. No definite relation is established between managers and clerks.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "syllogism"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Daughter",
+    "explanation": "Ravi's mother's only son is Ravi himself. The daughter of Ravi is his daughter.",
+    "difficulty": "medium",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "blood relation"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "A person walks 8 m north, turns right and walks 6 m, then turns right and walks 8 m. How far is he from the starting point?",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m",
+      "14 m"
+    ],
+    "answer": "6 m",
+    "explanation": "The north and south movements cancel. The person is 6 m east of the starting point.",
+    "difficulty": "easy",
+    "tags": [
+      "ibps po",
+      "reasoning",
+      "direction sense"
+    ]
   }
 ]
