@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "A particle moves with displacement s(t) = 3t^2 + 2t metre. What is its instantaneous velocity at t = 4 s?",
+    "options": ["20 m/s", "22 m/s", "24 m/s", "26 m/s"],
+    "answer": "26 m/s",
+    "explanation": "Velocity is ds/dt = 6t + 2. At t = 4 s, v = 24 + 2 = 26 m/s.",
+    "difficulty": "easy",
+    "tags": ["jee main", "physics", "kinematics"]
+  },
+  {
+    "id": 2,
+    "question": "A 2 kg block is pulled on a smooth horizontal surface by a constant force of 10 N. What is its acceleration?",
+    "options": ["2 m/s^2", "4 m/s^2", "5 m/s^2", "10 m/s^2"],
+    "answer": "5 m/s^2",
+    "explanation": "Using F = ma, acceleration = 10 / 2 = 5 m/s^2.",
+    "difficulty": "easy",
+    "tags": ["jee main", "physics", "laws of motion"]
+  },
+  {
+    "id": 3,
+    "question": "A wire of resistance R is stretched to double its length without changing its volume. Its new resistance is:",
+    "options": ["R/2", "R", "2R", "4R"],
+    "answer": "4R",
+    "explanation": "With volume constant, doubling length halves area. Resistance R = rho L/A becomes 2L divided by A/2, so it becomes 4R.",
+    "difficulty": "medium",
+    "tags": ["jee main", "physics", "current electricity"]
+  },
+  {
+    "id": 4,
+    "question": "For a concave mirror, an object is placed at the centre of curvature. The image formed is:",
+    "options": ["virtual and enlarged", "real, inverted and same size", "real and highly diminished", "virtual and same size"],
+    "answer": "real, inverted and same size",
+    "explanation": "For an object at C of a concave mirror, the image is formed at C, real, inverted and of the same size.",
+    "difficulty": "easy",
+    "tags": ["jee main", "physics", "ray optics"]
+  },
+  {
+    "id": 5,
+    "question": "The de Broglie wavelength of an electron accelerated through potential V is proportional to:",
+    "options": ["V", "sqrt(V)", "1/sqrt(V)", "1/V"],
+    "answer": "1/sqrt(V)",
+    "explanation": "lambda = h / sqrt(2meV), so wavelength is inversely proportional to sqrt(V).",
+    "difficulty": "medium",
+    "tags": ["jee main", "physics", "modern physics"]
+  },
+  {
+    "id": 6,
+    "question": "Which of the following has the highest first ionisation enthalpy?",
+    "options": ["Li", "Be", "B", "C"],
+    "answer": "C",
+    "explanation": "Across a period, first ionisation enthalpy generally increases. Among these, carbon has the highest value.",
+    "difficulty": "medium",
+    "tags": ["jee main", "chemistry", "periodic table"]
+  },
+  {
+    "id": 7,
+    "question": "The pH of 0.001 M HCl solution at 25 C is approximately:",
+    "options": ["1", "2", "3", "11"],
+    "answer": "3",
+    "explanation": "HCl is a strong acid. [H+] = 10^-3 M, so pH = -log(10^-3) = 3.",
+    "difficulty": "easy",
+    "tags": ["jee main", "chemistry", "ionic equilibrium"]
+  },
+  {
+    "id": 8,
+    "question": "For the reaction N2 + 3H2 -> 2NH3, if 1 mole of N2 reacts completely with excess H2, moles of NH3 formed are:",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "explanation": "The balanced equation shows 1 mole of nitrogen produces 2 moles of ammonia.",
+    "difficulty": "easy",
+    "tags": ["jee main", "chemistry", "stoichiometry"]
+  },
+  {
+    "id": 9,
+    "question": "Which compound gives a positive iodoform test?",
+    "options": ["Methanol", "Ethanol", "Benzaldehyde", "Formic acid"],
+    "answer": "Ethanol",
+    "explanation": "Ethanol is oxidised to acetaldehyde under test conditions and gives the iodoform reaction.",
+    "difficulty": "medium",
+    "tags": ["jee main", "chemistry", "organic chemistry"]
+  },
+  {
+    "id": 10,
+    "question": "The hybridisation of carbon in CO2 is:",
+    "options": ["sp", "sp2", "sp3", "dsp2"],
+    "answer": "sp",
+    "explanation": "CO2 is linear with two sigma bonds around carbon, so the carbon is sp hybridised.",
+    "difficulty": "easy",
+    "tags": ["jee main", "chemistry", "chemical bonding"]
+  },
+  {
+    "id": 11,
+    "question": "If f(x) = x^2 - 4x + 7, the minimum value of f(x) is:",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3",
+    "explanation": "f(x) = (x - 2)^2 + 3. The minimum is 3 at x = 2.",
+    "difficulty": "easy",
+    "tags": ["jee main", "mathematics", "quadratic equations"]
+  },
+  {
+    "id": 12,
+    "question": "The number of real roots of x^2 + 2x + 5 = 0 is:",
+    "options": ["0", "1", "2", "infinitely many"],
+    "answer": "0",
+    "explanation": "The discriminant is 2^2 - 4(1)(5) = -16, which is negative, so there are no real roots.",
+    "difficulty": "easy",
+    "tags": ["jee main", "mathematics", "complex numbers"]
+  },
+  {
+    "id": 13,
+    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, then A union B is:",
+    "options": ["{1, 2, 3}", "{2, 3}", "{1, 2, 3, 4}", "{4}"],
+    "answer": "{1, 2, 3, 4}",
+    "explanation": "The union contains every element that belongs to A or B.",
+    "difficulty": "easy",
+    "tags": ["jee main", "mathematics", "sets"]
+  },
+  {
+    "id": 14,
+    "question": "The derivative of sin x with respect to x is:",
+    "options": ["sin x", "cos x", "-sin x", "-cos x"],
+    "answer": "cos x",
+    "explanation": "The standard derivative d(sin x)/dx is cos x.",
+    "difficulty": "easy",
+    "tags": ["jee main", "mathematics", "calculus"]
+  },
+  {
+    "id": 15,
+    "question": "The value of determinant |1 2; 3 4| is:",
+    "options": ["-2", "2", "10", "-10"],
+    "answer": "-2",
+    "explanation": "For a 2x2 determinant, value = 1*4 - 2*3 = 4 - 6 = -2.",
+    "difficulty": "easy",
+    "tags": ["jee main", "mathematics", "determinants"]
+  }
+]
