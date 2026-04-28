@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "A particle starts from rest and moves along a straight line with acceleration a = 2t m/s^2. Its velocity at t = 3 s is:",
+    "options": ["6 m/s", "9 m/s", "12 m/s", "18 m/s"],
+    "answer": "9 m/s",
+    "explanation": "Velocity is the integral of acceleration: v = integral 2t dt = t^2. At t = 3 s, v = 9 m/s.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "physics", "kinematics", "calculus"]
+  },
+  {
+    "id": 2,
+    "question": "Two identical capacitors C are connected in series and charged by a battery V. The total energy stored is:",
+    "options": ["CV^2", "CV^2/2", "CV^2/4", "2CV^2"],
+    "answer": "CV^2/4",
+    "explanation": "Equivalent capacitance in series is C/2. Energy = 1/2 Ceq V^2 = 1/2*(C/2)*V^2 = CV^2/4.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "physics", "electrostatics"]
+  },
+  {
+    "id": 3,
+    "question": "A block of mass m slides down a smooth wedge of angle 30 degrees. The acceleration along the plane is:",
+    "options": ["g/4", "g/2", "g/sqrt(2)", "g"],
+    "answer": "g/2",
+    "explanation": "For a smooth inclined plane, acceleration along the plane is g sin theta. With theta = 30 degrees, it is g/2.",
+    "difficulty": "easy",
+    "tags": ["jee advanced", "physics", "laws of motion"]
+  },
+  {
+    "id": 4,
+    "question": "For a first-order reaction, 75% of the reactant is consumed in 20 minutes. The half-life is:",
+    "options": ["5 min", "10 min", "15 min", "20 min"],
+    "answer": "10 min",
+    "explanation": "If 75% is consumed, 25% remains, which means two half-lives have passed. Hence half-life = 20/2 = 10 min.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "chemistry", "chemical kinetics"]
+  },
+  {
+    "id": 5,
+    "question": "Which of the following species is diamagnetic?",
+    "options": ["O2", "NO", "N2", "NO2"],
+    "answer": "N2",
+    "explanation": "N2 has all electrons paired in its molecular orbital configuration, so it is diamagnetic.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "chemistry", "molecular orbital theory"]
+  },
+  {
+    "id": 6,
+    "question": "The major product of dehydration of 2-butanol under acidic conditions is:",
+    "options": ["1-butene", "2-butene", "butanal", "butanone"],
+    "answer": "2-butene",
+    "explanation": "Acid-catalysed dehydration follows Zaitsev's rule, giving the more substituted alkene, 2-butene, as the major product.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "chemistry", "organic reaction mechanism"]
+  },
+  {
+    "id": 7,
+    "question": "If z is a complex number satisfying |z - 1| = |z + 1|, then the locus of z is:",
+    "options": ["real axis", "imaginary axis", "circle with centre origin", "line y = x"],
+    "answer": "imaginary axis",
+    "explanation": "Points equidistant from 1 and -1 lie on the perpendicular bisector of the segment joining them, which is the imaginary axis.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "mathematics", "complex numbers"]
+  },
+  {
+    "id": 8,
+    "question": "The value of integral from 0 to pi/2 of sin x dx is:",
+    "options": ["0", "1", "2", "pi/2"],
+    "answer": "1",
+    "explanation": "Integral of sin x is -cos x. From 0 to pi/2, value = -cos(pi/2) + cos(0) = 1.",
+    "difficulty": "easy",
+    "tags": ["jee advanced", "mathematics", "definite integration"]
+  },
+  {
+    "id": 9,
+    "question": "The determinant of a 3x3 matrix changes by what factor if two rows are interchanged?",
+    "options": ["It remains same", "It becomes zero", "It changes sign", "It doubles"],
+    "answer": "It changes sign",
+    "explanation": "Interchanging any two rows of a determinant changes its sign.",
+    "difficulty": "easy",
+    "tags": ["jee advanced", "mathematics", "determinants"]
+  },
+  {
+    "id": 10,
+    "question": "A projectile has range R on horizontal ground. For a fixed speed, the two angles of projection giving the same range are theta and:",
+    "options": ["theta/2", "45 - theta", "90 - theta", "180 - theta"],
+    "answer": "90 - theta",
+    "explanation": "Range R = u^2 sin(2theta)/g. Since sin(2theta) = sin(180 - 2theta), complementary angles theta and 90 - theta give the same range.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "physics", "projectile motion"]
+  },
+  {
+    "id": 11,
+    "question": "For an ideal gas undergoing isothermal expansion, which quantity remains constant?",
+    "options": ["Pressure", "Volume", "Temperature", "Internal energy always decreases"],
+    "answer": "Temperature",
+    "explanation": "An isothermal process occurs at constant temperature. For an ideal gas, internal energy depends only on temperature and remains constant too, but the defining constant quantity is temperature.",
+    "difficulty": "easy",
+    "tags": ["jee advanced", "physics", "thermodynamics"]
+  },
+  {
+    "id": 12,
+    "question": "The pH of a buffer containing equal concentrations of acetic acid and sodium acetate is approximately equal to:",
+    "options": ["pKa of acetic acid", "pKw", "7", "14 - pKa"],
+    "answer": "pKa of acetic acid",
+    "explanation": "By Henderson-Hasselbalch equation, pH = pKa + log([salt]/[acid]). Equal concentrations make the log term zero.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "chemistry", "ionic equilibrium"]
+  },
+  {
+    "id": 13,
+    "question": "Which of the following compounds is aromatic?",
+    "options": ["Cyclobutadiene", "Benzene", "Cyclooctatetraene", "Cyclohexane"],
+    "answer": "Benzene",
+    "explanation": "Benzene is cyclic, planar, fully conjugated and has 6 pi electrons, satisfying Huckel's 4n+2 rule.",
+    "difficulty": "easy",
+    "tags": ["jee advanced", "chemistry", "aromaticity"]
+  },
+  {
+    "id": 14,
+    "question": "If f(x) = x^3 - 3x, then f(x) has a local maximum at:",
+    "options": ["x = -1", "x = 0", "x = 1", "x = 3"],
+    "answer": "x = -1",
+    "explanation": "f'(x) = 3x^2 - 3 = 0 gives x = +/-1. f''(x) = 6x, so at x = -1, f'' < 0, giving a local maximum.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "mathematics", "application of derivatives"]
+  },
+  {
+    "id": 15,
+    "question": "The number of onto functions from a set with 3 elements to a set with 2 elements is:",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6",
+    "explanation": "Total functions = 2^3 = 8. Non-onto functions map all elements to only one of the two codomain elements: 2 cases. Onto functions = 8 - 2 = 6.",
+    "difficulty": "medium",
+    "tags": ["jee advanced", "mathematics", "relations and functions"]
+  }
+]
